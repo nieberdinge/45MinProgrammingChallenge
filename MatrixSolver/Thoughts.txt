@@ -1,0 +1,22 @@
+Thoughts on Matrix Solver
+
+I found out how fast 45 minuites goes when coding
+I found that the idea was 
+
+Things I learned
+I learned the process of solving a matrix is a lot harder than it seems when coding it
+How to think on the fly
+
+Things I want to do
+I would like to automate this concept further
+Clean up the code
+Add comments
+
+Possible New ideas
+Further automate the matrix solver
+Make a python script to make this text file for me uploads the file to github
+
+Concepts used:
+Vectors
+Using Prototypes
+Passing by refernce
