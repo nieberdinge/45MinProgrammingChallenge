@@ -1,0 +1,8 @@
+Description of PythonScript
+This is a script that writes the Thoughts.txt and gathers all the files into a folder on your desktop.\nI am writing this Thought.txt using the script!
+Thoughts on PythonScript
+I think that this was very rewarding.\nI love effiecncy and this makes the process a little bit more efficent.\nI think overall this program is pretty good.
+What I learned:
+I learned a lot about moving files around using the os and shutil libraries.\nThis was also a good refresher on how python writes.\nI used python in my freshman year and coming back to it with my new knowledge is rewarding.
+What I would do if I had more time
+I would make it more universal.\nRight now it only works on my machine.\nI would better format the program.
